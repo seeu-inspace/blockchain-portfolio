@@ -144,6 +144,8 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 
 ## Code
 
+[SolidityToken](https://github.com/seeu-inspace/soliditytoken) This project aims to create a token called "SolidityToken $STK". The tokens are then distributed to users who request them from the faucet.
+
 **Solidity**
 - [1_Lottery-BlockVariable.sol](Solidity/1_Lottery-BlockVariable.sol) an example of a smart contract for a lottery system written in Solidity, using `block.timestamp` for randomness
 - [6_Attempt.sol](Solidity/6_Attempt.sol) deployed at [0x220DBDB08718cF4FF08Dc3520C75837ad59D8b18](https://goerli.etherscan.io/address/0x220dbdb08718cf4ff08dc3520c75837ad59d8b18) to win [this challenge](https://goerli.etherscan.io/address/0xcF469d3BEB3Fc24cEe979eFf83BE33ed50988502#code)
