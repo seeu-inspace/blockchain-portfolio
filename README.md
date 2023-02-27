@@ -7,6 +7,7 @@ A portfolio of my blockchain development and security work including code and no
 - [Resources](#resources)
 - [Tools](#tools)
 - [Code](#code)
+  - [SolidityToken](https://github.com/seeu-inspace/soliditytoken)
 - [Attack techniques](#attack-techniques)
   - [Vulnerabilities | Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library/tree/main/Vulnerabilities)
   - [Integer Overflow / Underflow](#integer-overflow--underflow)
