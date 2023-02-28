@@ -84,6 +84,7 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library)
 - [A Comprehensive Smart Contract Audit Readiness Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
 - [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+- [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
 
 **Vulnerabilities**
 - [SWC Registry](https://swcregistry.io/)
