@@ -1,0 +1,3 @@
+[submodule "soliditytoken"]
+	path = soliditytoken
+	url = https://github.com/seeu-inspace/soliditytoken
