@@ -77,7 +77,9 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - Use 2FA, use a password manager (like [KeePass](https://keepass.info/)), double check links and be aware of phishing, read [Five OpSec Best Practices to Live By](https://www.threatstack.com/blog/five-opsec-best-practices-to-live-by).
 - Read also [The Ultimate Self Custody Guide by Webacy](https://www.linkedin.com/pulse/ultimate-self-custody-guide-webacy-maika-isogawa/)
 
+#### Other interesting resources
 
+- [What is market cap?](https://www.coinbase.com/learn/crypto-basics/what-is-market-cap)
 
 ## Resources
 
@@ -95,7 +97,11 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
 - [DeFi Hacks Analysis - Root Cause](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
 
+**Newsletters**
 
+- [HashingBits by QuillAudits](https://quillaudits.substack.com/)
+- [Week in Ethereum News](https://weekinethereumnews.com/)
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
 
 ## Tools
 
