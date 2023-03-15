@@ -81,6 +81,7 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 
 - [What is market cap?](https://www.coinbase.com/learn/crypto-basics/what-is-market-cap)
 - [Khan Academy: Options, swaps, futures, MBSs, CDOs, and other derivatives](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
+- [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs)
 
 ## Resources
 
