@@ -141,14 +141,14 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [ethers](https://docs.ethers.org/)
   ethers is a JavaScript library for interacting with Ethereum blockchain and smart contracts. It provides a simple, lightweight interface for making calls to smart contracts, sending transactions, and listening for events on the Ethereum network. Install it with the command `npm install ethers`. An example is [_ethers.js](JavaScript/_ethers.js)
 
-**Vulnerability scanners & others**
+**Misc Tools**
 - [Slither](https://github.com/crytic/slither)
 - [MythX](https://mythx.io/)
 - [Solidity Function Profiler](https://github.com/EricR/sol-function-profiler)
 - [ERC20 Verifier](https://erc20-verifier.openzeppelin.com/)
 - [EVM Codes](https://www.evm.codes/)
 - [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
-
+- [Immunefi PoC Templates](https://github.com/immunefi-team/forge-poc-templates)
 
 
 ## Code
