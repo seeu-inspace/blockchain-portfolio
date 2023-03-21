@@ -149,6 +149,7 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [EVM Codes](https://www.evm.codes/)
 - [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
 - [Immunefi PoC Templates](https://github.com/immunefi-team/forge-poc-templates)
+- [Ruggability - know the risks before it’s too late](https://trust1995.github.io/ruggability/)
 
 
 ## Code
