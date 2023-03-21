@@ -113,7 +113,9 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Bitquery](https://explorer.bitquery.io/)
 
 **Development Environment**
-- [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+  - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+  - [Solidity Metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics)
 - [Remix](https://remix-project.org/)
   - [remixd](https://github.com/ethereum/remix-project/tree/master/libs/remixd)
 - [Truffle Suite](https://trufflesuite.com/docs/)
