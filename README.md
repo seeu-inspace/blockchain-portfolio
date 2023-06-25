@@ -13,6 +13,7 @@ A portfolio of my blockchain development and security works including code and n
   - [Integer Overflow / Underflow](#integer-overflow--underflow)
   - [Re-entrancy attacks](#re-entrancy-attacks)
   - [Unchecked Return Values For Low Level Calls](#unchecked-return-values-for-low-level-calls)
+  - [Oracle manipulation](#oracle-manipulation)
 
 
 ## Introduction
@@ -279,3 +280,19 @@ function withdraw(uint256 _amount) public {
 
 Real world scenario
 - [King of Ether | Post-Mortem Investigation (Feb 2016)](https://www.kingoftheether.com/postmortem.html)
+
+
+
+### <ins>Oracle manipulation</ins>
+
+A vulnerability emerges when protocols that rely on oracles carry out actions automatically even when the oracle provides erroneous data, and the results can be severe.
+
+Common vulnerabilities:
+- **Spot Price Manipulation** This vulnerability arises when a protocol trust a decentralised exchange's spot pricing and lacks verification
+- **Off-Chain Infrastructure** Oracle software must be hardened and compliant with security best practises such as the [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/). The Synthetix sKRW incident is an example, read more here: "[So you want to use a price oracle](https://www.paradigm.xyz/2020/11/so-you-want-to-use-a-price-oracle)"
+- **Centralized Oracles and Trust** Projects can also decide to implement a centralized oracle. This can lead to some problems, like:
+  - Attackers may exploit authorised users to submit harmful data and misuse their position of privilege
+  - Centralized Oracles may present an inherent risk as a result of compromised private keys
+- **Decentralized Oracle Security** Participants who provide the Oracle system with (valid) data receive financial compensation. The participants are encouraged to offer the least expensive version of their service in order to increase their profit. How this get exploited:
+  - **Freeloading** A node can replicate the values without validation by copying another oracle or off-chain component. A commit-reveal system may be simply implemented to avoid freeloading attacks for more complicated data streams
+  - **Mirroring** Similar to Freeloading. Following a single node's reading from the centralised data source, additional participants (Sybil nodes) that mirror that data copy the values of that one node. The incentive for giving the information is doubled by the quantity of participants with a single data read
