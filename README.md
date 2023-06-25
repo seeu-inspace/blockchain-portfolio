@@ -105,6 +105,23 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Week in Ethereum News](https://weekinethereumnews.com/)
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
 
+**YouTube channels**
+- [Andy Li](https://www.youtube.com/@andyli)
+- [Code4rena](https://www.youtube.com/@code4rena)
+- [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
+- [Secureum](https://www.youtube.com/@SecureumVideos)
+- [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)
+- [Spearbit](https://www.youtube.com/@Spearbit)
+- [Solidity Summit](https://www.youtube.com/@soliditysummit)
+- [OpenSense](https://www.youtube.com/@opensensepw/)
+- [OpenZeppelin](https://www.youtube.com/@OpenZeppelin)
+- [yAcademy](https://www.youtube.com/@yacademyDAO)
+- [Ethereum Engineering Group](https://www.youtube.com/@EthereumEngineeringGroup)
+- [Owen Thurm](https://www.youtube.com/@0xOwenThurm)
+- [DeFi Security Summit](https://www.youtube.com/@defisecuritysummit2088)
+
+
+
 ## Tools
 
 **Blockchain exploration**
