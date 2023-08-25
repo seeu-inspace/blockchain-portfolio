@@ -1,6 +1,6 @@
 # Blockchain portfolio
 
-A portfolio of my blockchain development and security works including code and notes
+A portfolio of my blockchain works including code and notes
 
 ## Index
 - [Introduction](#introduction)
