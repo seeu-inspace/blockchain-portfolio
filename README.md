@@ -135,7 +135,6 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
   - [Ganache](https://github.com/trufflesuite/ganache)
 - [Hardhat](https://hardhat.org/)
   - [Configuration | Hardhat](https://hardhat.org/hardhat-runner/docs/config)
-  - [deploy.js](JavaScript/deploy.js)
 - [Foundry](https://book.getfoundry.sh/)
 
 **Libraries**
@@ -174,14 +173,7 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 
 **Solidity**
 - [1_Lottery-BlockVariable.sol](Solidity/1_Lottery-BlockVariable.sol) an example of a smart contract for a lottery system written in Solidity, using `block.timestamp` for randomness
-- [6_Attempt.sol](Solidity/6_Attempt.sol) deployed at [0x220DBDB08718cF4FF08Dc3520C75837ad59D8b18](https://goerli.etherscan.io/address/0x220dbdb08718cf4ff08dc3520c75837ad59d8b18) to win [this challenge](https://goerli.etherscan.io/address/0xcF469d3BEB3Fc24cEe979eFf83BE33ed50988502#code)
-- [7_ERC20.sol](Solidity/7_ERC20.sol) smart contract for an ERC20 token (see: [EIP-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20) and [openzeppelin-contracts/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.8.0/contracts/token/ERC20/ERC20.sol))
-- [8_Telephone-attacker.sol](Solidity/8_Telephone-attacker.sol) to solve the [4. Telephone challenge](https://ethernaut.openzeppelin.com/level/4) from Ethernaut
-- [9_BadRandomness.sol](Solidity/9_BadRandomness.sol) an example of Bad Randomness. See more about this issue here: [Bad Randomness | DASP TOP 10](https://dasp.co/#item-6)
 - [11_MultiSig.sol](Solidity/11_MultiSig.sol) an example of Smart Contract for Multiple Signatures
-- [12_Storages.sol](Solidity/12_Storages.sol) exercises on storage slots. Test with [storage_lookup.js](JavaScript/storage_lookup.js).
-- [13_Proxy.sol](Solidity/13_Proxy.sol) an exercise on proxies. Test with [proxy_tests.js](JavaScript/proxy_tests.js).
-
 
 **JavaScript**
 - [digitalSignatures.js](JavaScript/digitalSignatures.js) is a simulation of public key cryptography
