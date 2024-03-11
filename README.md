@@ -129,9 +129,10 @@ Solodit
 - [Bitquery](https://explorer.bitquery.io/)
 
 **Development Environment**
-- [Visual Studio](https://visualstudio.microsoft.com/)
-  - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-  - [Solidity Metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics)
+- [Visual Studio Code](https://code.visualstudio.com/) / [VSCodium](https://vscodium.com/)
+  - [Solidity](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
+  - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Remix](https://remix-project.org/)
   - [remixd](https://github.com/ethereum/remix-project/tree/master/libs/remixd)
 - [Truffle Suite](https://trufflesuite.com/docs/)
