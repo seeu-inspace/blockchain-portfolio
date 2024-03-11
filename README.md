@@ -141,6 +141,7 @@ Solodit
 - [Hardhat](https://hardhat.org/)
   - [Configuration | Hardhat](https://hardhat.org/hardhat-runner/docs/config)
 - [Foundry](https://book.getfoundry.sh/)
+- A web browser + [MetaMask](https://metamask.io/)
 
 **Libraries**
 - [web3.js](https://web3js.readthedocs.io/)
