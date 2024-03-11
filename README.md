@@ -133,6 +133,7 @@ Solodit
   - [Solidity](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
   - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - Note: remember to activate `Format on save`
 - [Remix](https://remix-project.org/)
   - [remixd](https://github.com/ethereum/remix-project/tree/master/libs/remixd)
 - [Truffle Suite](https://trufflesuite.com/docs/)
