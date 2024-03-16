@@ -84,7 +84,7 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [A Comprehensive Smart Contract Audit Readiness Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
 - [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 - [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
-Solodit
+- [Solodit](https://solodit.xyz/)
 
 **Vulnerabilities**
 - [SWC Registry](https://swcregistry.io/)
