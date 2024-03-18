@@ -124,6 +124,10 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Owen Thurm](https://www.youtube.com/@0xOwenThurm)
 - [DeFi Security Summit](https://www.youtube.com/@defisecuritysummit2088)
 
+**Forums**
+- [Peeranha](https://peeranha.io/)
+- [ethereum.stackexchange](https://ethereum.stackexchange.com/)
+
 
 ## Tools
 
@@ -175,10 +179,6 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Immunefi PoC Templates](https://github.com/immunefi-team/forge-poc-templates)
 - [Ruggability - know the risks before it’s too late](https://trust1995.github.io/ruggability/)
 - [Phind](https://www.phind.com/)
-
-**Forums**
-- [Peeranha](https://peeranha.io/)
-- [ethereum.stackexchange](https://ethereum.stackexchange.com/)
 
 
 ## Code
