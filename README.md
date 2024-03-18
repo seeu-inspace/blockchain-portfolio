@@ -176,6 +176,13 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Peeranha](https://peeranha.io/)
 - [ethereum.stackexchange](https://ethereum.stackexchange.com/)
 
+**Resources**
+
+- [Clean Contracts - a guide on smart contract patterns & practices](https://www.useweb3.xyz/guides/clean-contracts)
+- [Smart Contract Security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [Ethereum VM (EVM) Opcodes and Instruction Reference](https://github.com/crytic/evm-opcodes)
+
 ## Code
 
 **Full stack**
@@ -189,10 +196,3 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [digitalSignatures.js](JavaScript/digitalSignatures.js) is a simulation of public key cryptography
 - [blockchain.js](JavaScript/blockchain.js) is a simple Proof of Work blockchain simulation
 - [blockchain-explorer.html](JavaScript/blockchain-explorer.html) a simple Ethereum Blockchain Explorer, built using [Ethers](https://docs.ethers.org/) and [Infura](https://www.infura.io/)
-
-**Resources**
-
-- [Clean Contracts - a guide on smart contract patterns & practices](https://www.useweb3.xyz/guides/clean-contracts)
-- [Smart Contract Security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
-- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Ethereum VM (EVM) Opcodes and Instruction Reference](https://github.com/crytic/evm-opcodes)
