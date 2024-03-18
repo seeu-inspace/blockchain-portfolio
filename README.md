@@ -80,22 +80,27 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 
 ## Resources
 
-- [Web3 Security Library](https://github.com/immunefi-team/Web3-Security-Library)
-- [A Comprehensive Smart Contract Audit Readiness Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
-- [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
-- [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
-- [Solodit](https://solodit.xyz/)
+**Code**
+- [Clean Contracts - a guide on smart contract patterns & practices](https://www.useweb3.xyz/guides/clean-contracts)
+- [Ethereum VM (EVM) Opcodes and Instruction Reference](https://github.com/crytic/evm-opcodes)
 
-**Vulnerabilities**
+**Security**
+- [A Comprehensive Smart Contract Audit Readiness Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
 - [SWC Registry](https://swcregistry.io/)
 - [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus](https://telegra.ph/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 - [Web3 Security Library | Immunefi](https://github.com/immunefi-team/Web3-Security-Library)
+- [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
+- [Smart Contract Security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
+**Public reports**
+- [Solodit](https://solodit.xyz/)
+- [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 
 **Updates / News**
 - [rekt.news](https://rekt.news/)
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
 - [DeFi Hacks Analysis - Root Cause](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
-
 
 **Newsletters**
 - [HashingBits by QuillAudits](https://quillaudits.substack.com/)
@@ -118,7 +123,6 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Ethereum Engineering Group](https://www.youtube.com/@EthereumEngineeringGroup)
 - [Owen Thurm](https://www.youtube.com/@0xOwenThurm)
 - [DeFi Security Summit](https://www.youtube.com/@defisecuritysummit2088)
-
 
 
 ## Tools
@@ -176,12 +180,6 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 - [Peeranha](https://peeranha.io/)
 - [ethereum.stackexchange](https://ethereum.stackexchange.com/)
 
-**Resources**
-
-- [Clean Contracts - a guide on smart contract patterns & practices](https://www.useweb3.xyz/guides/clean-contracts)
-- [Smart Contract Security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
-- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-- [Ethereum VM (EVM) Opcodes and Instruction Reference](https://github.com/crytic/evm-opcodes)
 
 ## Code
 
