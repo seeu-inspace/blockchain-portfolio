@@ -8,7 +8,7 @@ A portfolio of my blockchain works including code and notes
 - [Tools](#tools)
 - [Code](#code)
   - [SolidityToken](https://github.com/seeu-inspace/soliditytoken)
-  - [KittensOnChain](https://github.com/seeu-inspace/KittensOnChain)
+  - [KittensOnChain](https://github.com/seeu-inspace/kittensonchain)
 
 
 ## Introduction
@@ -190,7 +190,7 @@ You can find more here: [ethereum.org/en/glossary/](https://ethereum.org/en/glos
 **Solidity**
 - [1_Lottery-BlockVariable.sol](Solidity/1_Lottery-BlockVariable.sol) an example of a smart contract for a lottery system written in Solidity, using `block.timestamp` for randomness
 - [11_MultiSig.sol](Solidity/11_MultiSig.sol) an example of Smart Contract for Multiple Signatures
-- [KittensOnChain](https://github.com/seeu-inspace/KittensOnChain) KittensOnChain is a NFT project aim to fix the problem that there are not enough cats on the blockchain.
+- [KittensOnChain](https://github.com/seeu-inspace/kittensonchain) KittensOnChain is a NFT project aim to fix the problem that there are not enough cats on the blockchain.
 
 **JavaScript**
 - [digitalSignatures.js](JavaScript/digitalSignatures.js) is a simulation of public key cryptography
