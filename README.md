@@ -8,6 +8,7 @@ A portfolio of my blockchain works including code and notes
 - [Tools](#tools)
 - [Code](#code)
   - [SolidityToken](https://github.com/seeu-inspace/soliditytoken)
+  - [KittensOnChain](https://github.com/seeu-inspace/KittensOnChain)
 
 
 ## Introduction
