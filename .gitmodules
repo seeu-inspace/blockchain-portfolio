@@ -1,3 +1,6 @@
 [submodule "soliditytoken"]
 	path = soliditytoken
 	url = https://github.com/seeu-inspace/soliditytoken
+[submodule "kittensonchain"]
+	path = kittensonchain
+	url = https://github.com/seeu-inspace/kittensonchain
